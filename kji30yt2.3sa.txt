@@ -1,0 +1,31 @@
+added code to pull data  from watch 
+added user data structure 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   app/app.iml
+#	new file:   app/src/main/java/sweetandsimple/com/androidwearsample/DataCollection.java
+#	new file:   app/src/main/java/sweetandsimple/com/androidwearsample/UserData.java
+#
+# Changes not staged for commit:
+#	modified:   .idea/.name
+#	modified:   .idea/compiler.xml
+#	deleted:    .idea/encodings.xml
+#	modified:   .idea/gradle.xml
+#	modified:   .idea/misc.xml
+#	modified:   .idea/modules.xml
+#	deleted:    .idea/runConfigurations.xml
+#	modified:   .idea/vcs.xml
+#	modified:   app/app.iml
+#	modified:   app/src/main/AndroidManifest.xml
+#	modified:   app/src/main/java/sweetandsimple/com/androidwearsample/DataCollection.java
+#	modified:   app/src/main/java/sweetandsimple/com/androidwearsample/MainActivity.java
+#	modified:   app/src/main/java/sweetandsimple/com/androidwearsample/UserData.java
+#
+# Untracked files:
+#	Mylan-Hackathon.iml
+#
+
