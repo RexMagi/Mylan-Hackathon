@@ -74,7 +74,6 @@ public class UserData implements Serializable {
 
     public UserData() {
         DailyHeartRate = new ArrayList();
-
         DailySteps = new ArrayList();
         DailySkinTemp = new ArrayList();
         DailyUVExposer = new ArrayList();
